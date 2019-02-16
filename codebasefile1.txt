@@ -1,5 +1,9 @@
 hi,
 I am commiting for first time!!!!
+<<<<<<< HEAD
 added line in master branch
+=======
+changed in branch1
+>>>>>>> branch 1 commit 1
 thanks
 
