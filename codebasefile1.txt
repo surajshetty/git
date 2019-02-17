@@ -7,6 +7,6 @@ changed in branch1
 branch 1 commit 1
 
    changed in branch1
-
+some changes
 thanks
 
