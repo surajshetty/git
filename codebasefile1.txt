@@ -1,13 +1,12 @@
 hi,
 I am commiting for first time!!!!
-<<<<<<< HEAD
+
 added line in master branch
-=======
 changed in branch1
-<<<<<<< HEAD
->>>>>>> branch 1 commit 1
-=======
+ 
+branch 1 commit 1
+
    changed in branch1
->>>>>>> line1 added
+
 thanks
 
